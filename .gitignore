@@ -1,4 +1,3 @@
 #ignore nodu modules directory
 node_modules/
 .env
-#other countries
